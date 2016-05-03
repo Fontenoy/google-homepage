@@ -1,0 +1,108 @@
+*
+img.google {
+	display: block;
+	margin-left: 43%;
+	margin-right: auto;
+	padding: 8px;
+}
+
+.search_area {
+	position: relative;
+	margin: 0 auto;
+	top: 180px;
+}
+
+#navbar {
+	position: relative;
+	width: 100%
+	height:80px;
+	margin-top: 0px;
+	margin-right: 25px;
+}
+
+
+.btn {
+  color: #ffffff;
+  background: #4285F4;
+  padding: 7px 15px 7px 15px;
+  text-decoration: none;
+  font-weight: bolder;
+  border: none;
+
+}
+
+
+#searchbox {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 32px;
+	width: 520px;
+	margin-bottom: 12px;
+}
+#test {
+	margin-left: 43%;
+	padding: 8px;
+}
+#test1 {
+
+	padding: 8px;
+}
+.button {
+	display: inline-block;
+}
+
+body {
+		font-size: 12px;
+		font-family:  sans-serif;
+}
+
+ul {
+	list-style-type: none;
+	}
+
+li {
+	vertical-align: middle;
+	margin-top: 6px;
+	padding: 8px;
+	margin-left: 0px;
+	display: inline-block;
+}
+li:hover {
+	text-decoration: underline;
+}
+
+a {
+	color: #4d4d4d; 
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#left {
+	float: left;
+
+}
+
+#right {
+	float: right;
+}
+
+* {
+margin: 0;
+}
+html, body {
+height: 100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -3.5em;
+    }
+.footer, .push {
+    height: 3.5em;
+    }
